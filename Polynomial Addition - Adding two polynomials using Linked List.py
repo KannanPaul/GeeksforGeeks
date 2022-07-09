@@ -32,6 +32,8 @@ The task is to complete the function addPolynomial() which should add the polyno
 return the required polynomial in decreasing order of the power in the form of a linked list.'''
 
 Solution:
+  Time Complexity: O(N+M)
+  Auxiliary Space: O(1)
   
  '''
  class node:
