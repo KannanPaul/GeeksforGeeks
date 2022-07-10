@@ -22,7 +22,8 @@ Solution:
   Time Complexity: O(2^N*M)
   Auxiliary Space: O(N)
     
-    from typing import List
+from typing import List
+
 class Solution:
             
     def findAllPossiblePaths(self, n : int, m : int, grid : List[List[int]]) -> List[List[int]]:
